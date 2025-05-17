@@ -1,49 +1,64 @@
 {
     "iconDefinitions": {
-        "dark_file": {
-            "iconPath": "./icons/dark/file.svg"
+        "dark_asm": {
+            "iconPath": "./icons/dark/asm.svg"
         },
-        "light_file": {
-            "iconPath": "./icons/light/file.svg"
+        "light_asm": {
+            "iconPath": "./icons/light/asm.svg"
         },
-        "dark_folder-expanded": {
-            "iconPath": "./icons/dark/folder-expanded.svg"
+        "dark_audio": {
+            "iconPath": "./icons/dark/audio.svg"
         },
-        "light_folder-expanded": {
-            "iconPath": "./icons/light/folder-expanded.svg"
+        "light_audio": {
+            "iconPath": "./icons/light/audio.svg"
         },
-        "dark_folder": {
-            "iconPath": "./icons/dark/folder.svg"
+        "dark_bat": {
+            "iconPath": "./icons/dark/bat.svg"
         },
-        "light_folder": {
-            "iconPath": "./icons/light/folder.svg"
-        },
-        "dark_root-folder-expanded": {
-            "iconPath": "./icons/dark/root-folder-expanded.svg"
-        },
-        "light_root-folder-expanded": {
-            "iconPath": "./icons/light/root-folder-expanded.svg"
-        },
-        "dark_root-folder": {
-            "iconPath": "./icons/dark/root-folder.svg"
-        },
-        "light_root-folder": {
-            "iconPath": "./icons/light/root-folder.svg"
+        "light_bat": {
+            "iconPath": "./icons/light/bat.svg"
         },
         "dark_c": {
             "iconPath": "./icons/dark/c.svg"
         },
+        "light_c": {
+            "iconPath": "./icons/light/c.svg"
+        },
         "dark_cpp": {
             "iconPath": "./icons/dark/cpp.svg"
         },
+        "light_cpp": {
+            "iconPath": "./icons/light/cpp.svg"
+        },
         "dark_cs": {
             "iconPath": "./icons/dark/cs.svg"
+        },
+        "light_cs": {
+            "iconPath": "./icons/light/cs.svg"
         },
         "dark_css": {
             "iconPath": "./icons/dark/css.svg"
         },
         "light_css": {
             "iconPath": "./icons/light/css.svg"
+        },
+        "dark_csv": {
+            "iconPath": "./icons/dark/csv.svg"
+        },
+        "light_csv": {
+            "iconPath": "./icons/light/csv.svg"
+        },
+        "dark_dll": {
+            "iconPath": "./icons/dark/dll.svg"
+        },
+        "light_dll": {
+            "iconPath": "./icons/light/dll.svg"
+        },
+        "dark_doc": {
+            "iconPath": "./icons/dark/doc.svg"
+        },
+        "light_doc": {
+            "iconPath": "./icons/light/doc.svg"
         },
         "dark_docker": {
             "iconPath": "./icons/dark/docker.svg"
@@ -63,14 +78,41 @@
         "light_editorconfig": {
             "iconPath": "./icons/light/editorconfig.svg"
         },
+        "dark_file": {
+            "iconPath": "./icons/dark/file.svg"
+        },
+        "light_file": {
+            "iconPath": "./icons/light/file.svg"
+        },
+        "dark_folder-expanded": {
+            "iconPath": "./icons/dark/folder-expanded.svg"
+        },
+        "light_folder-expanded": {
+            "iconPath": "./icons/light/folder-expanded.svg"
+        },
+        "dark_folder": {
+            "iconPath": "./icons/dark/folder.svg"
+        },
+        "light_folder": {
+            "iconPath": "./icons/light/folder.svg"
+        },
         "dark_gif": {
             "iconPath": "./icons/dark/gif.svg",
+        },
+        "light_gif": {
+            "iconPath": "./icons/light/gif.svg",
         },
         "dark_github-folder-expanded": {
             "iconPath": "./icons/dark/github-folder-expanded.svg",
         },
+        "light_github-folder-expanded": {
+            "iconPath": "./icons/light/github-folder-expanded.svg",
+        },
         "dark_github-folder": {
             "iconPath": "./icons/dark/github-folder.svg",
+        },
+        "light_github-folder": {
+            "iconPath": "./icons/light/github-folder.svg",
         },
         "dark_go": {
             "iconPath": "./icons/dark/go.svg"
@@ -78,8 +120,29 @@
         "light_go": {
             "iconPath": "./icons/light/go.svg"
         },
+        "dark_image": {
+            "iconPath": "./icons/dark/image.svg"
+        },
+        "light_image": {
+            "iconPath": "./icons/light/image.svg"
+        },
+        "dark_ini": {
+            "iconPath": "./icons/dark/ini.svg"
+        },
+        "light_ini": {
+            "iconPath": "./icons/light/ini.svg"
+        },
+        "dark_java": {
+            "iconPath": "./icons/dark/java.svg"
+        },
+        "light_java": {
+            "iconPath": "./icons/light/java.svg"
+        },
         "dark_jpg": {
             "iconPath": "./icons/dark/jpg.svg"
+        },
+        "light_jpg": {
+            "iconPath": "./icons/light/jpg.svg"
         },
         "dark_js": {
             "iconPath": "./icons/dark/js.svg"
@@ -99,20 +162,131 @@
         "light_jsx": {
             "iconPath": "./icons/light/jsx.svg"
         },
+        "dark_kt": {
+            "iconPath": "./icons/dark/kt.svg"
+        },
+        "light_kt": {
+            "iconPath": "./icons/light/kt.svg"
+        },
+        "dark_less": {
+            "iconPath": "./icons/dark/less.svg"
+        },
+        "light_less": {
+            "iconPath": "./icons/light/less.svg"
+        },
+        "dark_log": {
+            "iconPath": "./icons/dark/log.svg"
+        },
+        "light_log": {
+            "iconPath": "./icons/light/log.svg"
+        },
+        "dark_lua": {
+            "iconPath": "./icons/dark/lua.svg"
+        },
+        "light_lua": {
+            "iconPath": "./icons/light/lua.svg"
+        },
+        "dark_makefile": {
+            "iconPath": "./icons/dark/makefile.svg"
+        },
+        "light_makefile": {
+            "iconPath": "./icons/light/makefile.svg"
+        },
         "dark_md": {
             "iconPath": "./icons/dark/md.svg"
         },
         "light_md": {
             "iconPath": "./icons/light/md.svg"
         },
-        "dark_node-modules-folder": {
-            "iconPath": "./icons/dark/node-modules-folder.svg",
-        },
         "dark_node-modules-folder-expanded": {
             "iconPath": "./icons/dark/node-modules-folder-expanded.svg",
         },
+        "light_node-modules-folder-expanded": {
+            "iconPath": "./icons/light/node-modules-folder-expanded.svg",
+        },
+        "dark_node-modules-folder": {
+            "iconPath": "./icons/dark/node-modules-folder.svg",
+        },
+        "light_node-modules-folder": {
+            "iconPath": "./icons/light/node-modules-folder.svg",
+        },
+        "dark_pdf": {
+            "iconPath": "./icons/dark/pdf.svg"
+        },
+        "light_pdf": {
+            "iconPath": "./icons/light/pdf.svg"
+        },
+        "dark_php": {
+            "iconPath": "./icons/dark/php.svg"
+        },
+        "light_php": {
+            "iconPath": "./icons/light/php.svg"
+        },
         "dark_png": {
             "iconPath": "./icons/dark/png.svg"
+        },
+        "light_png": {
+            "iconPath": "./icons/light/png.svg"
+        },
+        "dark_ppt": {
+            "iconPath": "./icons/dark/ppt.svg"
+        },
+        "light_ppt": {
+            "iconPath": "./icons/light/ppt.svg"
+        },
+        "dark_ps1": {
+            "iconPath": "./icons/dark/ps1.svg"
+        },
+        "light_ps1": {
+            "iconPath": "./icons/light/ps1.svg"
+        },
+        "dark_py": {
+            "iconPath": "./icons/dark/py.svg"
+        },
+        "light_py": {
+            "iconPath": "./icons/light/py.svg"
+        },
+        "dark_rb": {
+            "iconPath": "./icons/dark/rb.svg"
+        },
+        "light_rb": {
+            "iconPath": "./icons/light/rb.svg"
+        },
+        "dark_root-folder-expanded": {
+            "iconPath": "./icons/dark/root-folder-expanded.svg"
+        },
+        "light_root-folder-expanded": {
+            "iconPath": "./icons/light/root-folder-expanded.svg"
+        },
+        "dark_root-folder": {
+            "iconPath": "./icons/dark/root-folder.svg"
+        },
+        "light_root-folder": {
+            "iconPath": "./icons/light/root-folder.svg"
+        },
+        "dark_rs": {
+            "iconPath": "./icons/dark/rs.svg"
+        },
+        "light_rs": {
+            "iconPath": "./icons/light/rs.svg"
+        },
+        "dark_sass": {
+            "iconPath": "./icons/dark/sass.svg"
+        },
+        "light_sass": {
+            "iconPath": "./icons/light/sass.svg"
+        },
+        "dark_scss": {
+            "iconPath": "./icons/dark/scss.svg"
+        },
+        "light_scss": {
+            "iconPath": "./icons/light/scss.svg"
+        },
+        "dark_sh": {
+            "iconPath": "./icons/dark/sh.svg"
+        },
+        "light_sh": {
+            "iconPath": "./icons/light/sh.svg"
         },
         "dark_svg": {
             "iconPath": "./icons/dark/svg.svg"
@@ -120,11 +294,23 @@
         "light_svg": {
             "iconPath": "./icons/light/svg.svg"
         },
+        "dark_swift": {
+            "iconPath": "./icons/dark/swift.svg"
+        },
+        "light_swift": {
+            "iconPath": "./icons/light/swift.svg"
+        },
         "dark_tf": {
             "iconPath": "./icons/dark/tf.svg"
         },
         "light_tf": {
             "iconPath": "./icons/light/tf.svg"
+        },
+        "dark_toml": {
+            "iconPath": "./icons/dark/toml.svg"
+        },
+        "light_toml": {
+            "iconPath": "./icons/light/toml.svg"
         },
         "dark_ts": {
             "iconPath": "./icons/dark/ts.svg"
@@ -144,11 +330,35 @@
         "light_txt": {
             "iconPath": "./icons/light/txt.svg"
         },
+        "dark_video": {
+            "iconPath": "./icons/dark/video.svg"
+        },
+        "light_video": {
+            "iconPath": "./icons/light/video.svg"
+        },
         "dark_vue": {
             "iconPath": "./icons/dark/vue.svg"
         },
         "light_vue": {
             "iconPath": "./icons/light/vue.svg"
+        },
+        "dark_xls": {
+            "iconPath": "./icons/dark/xls.svg"
+        },
+        "light_xls": {
+            "iconPath": "./icons/light/xls.svg"
+        },
+        "dark_xml": {
+            "iconPath": "./icons/dark/xml.svg"
+        },
+        "light_xml": {
+            "iconPath": "./icons/light/xml.svg"
+        },
+        "dark_yaml": {
+            "iconPath": "./icons/dark/yaml.svg"
+        },
+        "light_yaml": {
+            "iconPath": "./icons/light/yaml.svg"
         },
     },
     "file": "dark_file",
@@ -165,26 +375,122 @@
         "node_modules": "dark_node-modules-folder-expanded",
     },
     "fileExtensions": {
+        "asm": "dark_asm",
+        "wav": "dark_audio",
+        "aif": "dark_audio",
+        "aiff": "dark_audio",
+        "mp3": "dark_audio",
+        "acc": "dark_audio",
+        "m4a": "dark_audio",
+        "ogg": "dark_audio",
+        "wma": "dark_audio",
+        "ra": "dark_audio",
+        "rm": "dark_audio",
+        "amr": "dark_audio",
+        "flac": "dark_audio",
+        "alac": "dark_audio",
+        "ape": "dark_audio",
+        "wv": "dark_audio",
+        "mid": "dark_audio",
+        "midi": "dark_audio",
+        "rmi": "dark_audio",
+        "opus": "dark_audio",
+        "dsd": "dark_audio",
+        "dsf": "dark_audio",
+        "aax": "dark_audio",
+        "mka": "dark_audio",
+        "caf": "dark_audio",
+        "bat": "dark_bat",
+        "bin": "dark_bin",
         "c": "dark_c",
         "cpp": "dark_cpp",
         "cs": "dark_cs",
         "css": "dark_css",
+        "csv": "dark_csv",
+        "dll": "dark_dll",
+        "doc": "dark_doc",
+        "docx": "dark_docx",
         "gif": "dark_gif",
         "go": "dark_go",
+        "bmp": "dark_image",
+        "tif": "dark_image",
+        "tiff": "dark_image",
+        "webp": "dark_image",
+        "heic": "dark_image",
+        "heif": "dark_image",
+        "raw": "dark_image",
+        "cr2": "dark_image",
+        "nef": "dark_image",
+        "arw": "dark_image",
+        "dng": "dark_image",
+        "eps": "dark_image",
+        "ai": "dark_image",
+        "ini": "dark_ini",
+        "java": "dark_java",
         "jpg": "dark_jpg",
+        "jpe": "dark_jpg",
+        "jpeg": "dark_jpg",
         "js": "dark_js",
         "json": "dark_json",
+        "jsonc": "dark_json",
+        "geojson": "dark_json",
+        "topojson": "dark_json",
+        "har": "dark_json",
+        "ipynb": "dark_json",
+        "webmanifest": "dark_json",
+        "manifest": "dark_json",
+        "eslintrc": "dark_json",
+        "babelrc": "dark_json",
+        "prettierrc": "dark_json",
         "jsx": "dark_jsx",
+        "kt": "dark_kt",
+        "less": "dark_less",
+        "log": "dark_log",
+        "lua": "dark_lua",
         "md": "dark_md",
+        "pdf": "dark_pdf",
+        "php": "dark_php",
         "png": "dark_png",
+        "ppt": "dark_ppt",
+        "pptx": "dark_pptx",
+        "ps1": "dark_ps1",
+        "py": "dark_py",
+        "rb": "dark_rb",
+        "rs": "dark_rs",
+        "sass": "dark_sass",
+        "scss": "dark_scss",
+        "sh": "dark_sh",
         "svg": "dark_svg",
+        "swift": "dark_swift",
         "tf": "dark_tf",
+        "toml": "dark_toml",
         "ts": "dark_ts",
         "tsx": "dark_tsx",
         "txt": "dark_txt",
+        "mp4": "dark_video",
+        "mkv": "dark_video",
+        "mov": "dark_video",
+        "avi": "dark_video",
+        "wmv": "dark_video",
+        "webm": "dark_video",
+        "flv": "dark_video",
+        "f4v": "dark_video",
+        "m2ts": "dark_video",
+        "3gp": "dark_video",
+        "3g2": "dark_video",
+        "ogv": "dark_video",
+        "rmvb": "dark_video",
+        "vob": "dark_video",
+        "mxf": "dark_video",
         "vue": "dark_vue",
+        "xls": "dark_xls",
+        "xlsx": "dark_xls",
+        "xml": "dark_xml",
+        "yaml": "dark_yaml",
+        "yml": "dark_yaml",
     },
     "fileNames": {
+        "Makefile": "dark_makefile",
         "Dockerfile": "dark_docker",
         ".env": "dark_dotenv",
         ".editorconfig": "dark_editorconfig",
@@ -195,24 +501,134 @@
         "folderExpanded": "light_folder-expanded",
         "rootFolder": "light_root-folder",
         "rootFolderExpanded": "light_root-folder-expanded",
+        "folderNames": {
+            ".github": "light_github-folder",
+            "node_modules": "light_node-modules-folder",
+        },
+        "folderNamesExpanded": {
+            ".github": "light_github-folder-expanded",
+            "node_modules": "light_node-modules-folder-expanded",
+        },
         "fileExtensions": {
+            "asm": "light_asm",
+            "wav": "light_audio",
+            "aif": "light_audio",
+            "aiff": "light_audio",
+            "mp3": "light_audio",
+            "acc": "light_audio",
+            "m4a": "light_audio",
+            "ogg": "light_audio",
+            "wma": "light_audio",
+            "ra": "light_audio",
+            "rm": "light_audio",
+            "amr": "light_audio",
+            "flac": "light_audio",
+            "alac": "light_audio",
+            "ape": "light_audio",
+            "wv": "light_audio",
+            "mid": "light_audio",
+            "midi": "light_audio",
+            "rmi": "light_audio",
+            "opus": "light_audio",
+            "dsd": "light_audio",
+            "dsf": "light_audio",
+            "aax": "light_audio",
+            "mka": "light_audio",
+            "caf": "light_audio",
+            "bat": "light_bat",
+            "bin": "light_bin",
+            "c": "light_c",
+            "cpp": "light_cpp",
+            "cs": "light_cs",
+            "css": "light_css",
+            "csv": "light_csv",
+            "dll": "light_dll",
+            "doc": "light_doc",
+            "docx": "light_docx",
+            "gif": "light_gif",
+            "go": "light_go",
+            "bmp": "light_image",
+            "tif": "light_image",
+            "tiff": "light_image",
+            "webp": "light_image",
+            "heic": "light_image",
+            "heif": "light_image",
+            "raw": "light_image",
+            "cr2": "light_image",
+            "nef": "light_image",
+            "arw": "light_image",
+            "dng": "light_image",
+            "eps": "light_image",
+            "ai": "light_image",
+            "ini": "light_ini",
+            "java": "light_java",
+            "jpg": "light_jpg",
+            "jpe": "light_jpg",
+            "jpeg": "light_jpg",
+            "js": "light_js",
+            "json": "light_json",
+            "jsonc": "light_json",
+            "geojson": "light_json",
+            "topojson": "light_json",
+            "har": "light_json",
+            "ipynb": "light_json",
+            "webmanifest": "light_json",
+            "manifest": "light_json",
+            "eslintrc": "light_json",
+            "babelrc": "light_json",
+            "prettierrc": "light_json",
+            "jsx": "light_jsx",
+            "kt": "light_kt",
+            "less": "light_less",
+            "log": "light_log",
+            "lua": "light_lua",
             "md": "light_md",
+            "pdf": "light_pdf",
+            "php": "light_php",
+            "png": "light_png",
+            "ppt": "light_ppt",
+            "pptx": "light_pptx",
+            "ps1": "light_ps1",
+            "py": "light_py",
+            "rb": "light_rb",
+            "rs": "light_rs",
+            "sass": "light_sass",
+            "scss": "light_scss",
+            "sh": "light_sh",
+            "svg": "light_svg",
+            "swift": "light_swift",
+            "tf": "light_tf",
+            "toml": "light_toml",
             "ts": "light_ts",
             "tsx": "light_tsx",
-            "js": "light_js",
-            "jsx": "light_jsx",
-            "css": "light_css",
-            "json": "light_json",
-            "go": "light_go",
             "txt": "light_txt",
+            "mp4": "light_video",
+            "mkv": "light_video",
+            "mov": "light_video",
+            "avi": "light_video",
+            "wmv": "light_video",
+            "webm": "light_video",
+            "flv": "light_video",
+            "f4v": "light_video",
+            "m2ts": "light_video",
+            "3gp": "light_video",
+            "3g2": "light_video",
+            "ogv": "light_video",
+            "rmvb": "light_video",
+            "vob": "light_video",
+            "mxf": "light_video",
             "vue": "light_vue",
-            "svg": "light_svg",
-            "tf": "light_tf",
+            "xls": "light_xls",
+            "xlsx": "light_xls",
+            "xml": "light_xml",
+            "yaml": "light_yaml",
+            "yml": "light_yaml",
         },
         "fileNames": {
+            "Makefile": "light_makefile",
             "Dockerfile": "light_docker",
-            ".editorconfig": "light_editorconfig",
             ".env": "light_dotenv",
-        }
+            ".editorconfig": "light_editorconfig",
+        },
     }
 }
