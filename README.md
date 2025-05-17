@@ -28,4 +28,4 @@ Feel free to submit issues or pull requests to improve coverage or tweak icons.
 
 ## License
 
-> soon
+MIT

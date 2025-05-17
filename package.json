@@ -3,6 +3,10 @@
     "displayName": "Minimal+ Theme",
     "publisher": "nasermirzaei89",
     "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nasermirzaei89/vscode-minimal-plus-theme.git"
+    },
     "engines": {
         "vscode": "^1.22.0"
     },
