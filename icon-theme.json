@@ -63,17 +63,23 @@
         "light_editorconfig": {
             "iconPath": "./icons/light/editorconfig.svg"
         },
-        "dark_github-folder": {
-            "iconPath": "./icons/dark/github-folder.svg",
+        "dark_gif": {
+            "iconPath": "./icons/dark/gif.svg",
         },
         "dark_github-folder-expanded": {
             "iconPath": "./icons/dark/github-folder-expanded.svg",
+        },
+        "dark_github-folder": {
+            "iconPath": "./icons/dark/github-folder.svg",
         },
         "dark_go": {
             "iconPath": "./icons/dark/go.svg"
         },
         "light_go": {
             "iconPath": "./icons/light/go.svg"
+        },
+        "dark_jpg": {
+            "iconPath": "./icons/dark/jpg.svg"
         },
         "dark_js": {
             "iconPath": "./icons/dark/js.svg"
@@ -104,6 +110,9 @@
         },
         "dark_node-modules-folder-expanded": {
             "iconPath": "./icons/dark/node-modules-folder-expanded.svg",
+        },
+        "dark_png": {
+            "iconPath": "./icons/dark/png.svg"
         },
         "dark_svg": {
             "iconPath": "./icons/dark/svg.svg"
@@ -160,11 +169,14 @@
         "cpp": "dark_cpp",
         "cs": "dark_cs",
         "css": "dark_css",
+        "gif": "dark_gif",
         "go": "dark_go",
+        "jpg": "dark_jpg",
         "js": "dark_js",
         "json": "dark_json",
         "jsx": "dark_jsx",
         "md": "dark_md",
+        "png": "dark_png",
         "svg": "dark_svg",
         "tf": "dark_tf",
         "ts": "dark_ts",
