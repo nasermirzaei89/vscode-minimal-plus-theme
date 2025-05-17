@@ -1,0 +1,21 @@
+{
+    "name": "vscode-minimal-plus-theme",
+    "displayName": "Minimal+ Theme",
+    "publisher": "nasermirzaei89",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "iconThemes": [
+            {
+                "id": "vscode-minimal-plus-icon-theme",
+                "label": "Minimal+ Icon Theme",
+                "path": "./icon-theme.json"
+            }
+        ]
+    }
+}

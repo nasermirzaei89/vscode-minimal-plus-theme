@@ -1,0 +1,206 @@
+{
+    "iconDefinitions": {
+        "dark_file": {
+            "iconPath": "./icons/dark/file.svg"
+        },
+        "light_file": {
+            "iconPath": "./icons/light/file.svg"
+        },
+        "dark_folder-expanded": {
+            "iconPath": "./icons/dark/folder-expanded.svg"
+        },
+        "light_folder-expanded": {
+            "iconPath": "./icons/light/folder-expanded.svg"
+        },
+        "dark_folder": {
+            "iconPath": "./icons/dark/folder.svg"
+        },
+        "light_folder": {
+            "iconPath": "./icons/light/folder.svg"
+        },
+        "dark_root-folder-expanded": {
+            "iconPath": "./icons/dark/root-folder-expanded.svg"
+        },
+        "light_root-folder-expanded": {
+            "iconPath": "./icons/light/root-folder-expanded.svg"
+        },
+        "dark_root-folder": {
+            "iconPath": "./icons/dark/root-folder.svg"
+        },
+        "light_root-folder": {
+            "iconPath": "./icons/light/root-folder.svg"
+        },
+        "dark_c": {
+            "iconPath": "./icons/dark/c.svg"
+        },
+        "dark_cpp": {
+            "iconPath": "./icons/dark/cpp.svg"
+        },
+        "dark_cs": {
+            "iconPath": "./icons/dark/cs.svg"
+        },
+        "dark_css": {
+            "iconPath": "./icons/dark/css.svg"
+        },
+        "light_css": {
+            "iconPath": "./icons/light/css.svg"
+        },
+        "dark_docker": {
+            "iconPath": "./icons/dark/docker.svg"
+        },
+        "light_docker": {
+            "iconPath": "./icons/light/docker.svg"
+        },
+        "dark_dotenv": {
+            "iconPath": "./icons/dark/dotenv.svg"
+        },
+        "light_dotenv": {
+            "iconPath": "./icons/light/dotenv.svg"
+        },
+        "dark_editorconfig": {
+            "iconPath": "./icons/dark/editorconfig.svg"
+        },
+        "light_editorconfig": {
+            "iconPath": "./icons/light/editorconfig.svg"
+        },
+        "dark_github-folder": {
+            "iconPath": "./icons/dark/github-folder.svg",
+        },
+        "dark_github-folder-expanded": {
+            "iconPath": "./icons/dark/github-folder-expanded.svg",
+        },
+        "dark_go": {
+            "iconPath": "./icons/dark/go.svg"
+        },
+        "light_go": {
+            "iconPath": "./icons/light/go.svg"
+        },
+        "dark_js": {
+            "iconPath": "./icons/dark/js.svg"
+        },
+        "light_js": {
+            "iconPath": "./icons/light/js.svg"
+        },
+        "dark_json": {
+            "iconPath": "./icons/dark/json.svg"
+        },
+        "light_json": {
+            "iconPath": "./icons/light/json.svg"
+        },
+        "dark_jsx": {
+            "iconPath": "./icons/dark/jsx.svg"
+        },
+        "light_jsx": {
+            "iconPath": "./icons/light/jsx.svg"
+        },
+        "dark_md": {
+            "iconPath": "./icons/dark/md.svg"
+        },
+        "light_md": {
+            "iconPath": "./icons/light/md.svg"
+        },
+        "dark_node-modules-folder": {
+            "iconPath": "./icons/dark/node-modules-folder.svg",
+        },
+        "dark_node-modules-folder-expanded": {
+            "iconPath": "./icons/dark/node-modules-folder-expanded.svg",
+        },
+        "dark_svg": {
+            "iconPath": "./icons/dark/svg.svg"
+        },
+        "light_svg": {
+            "iconPath": "./icons/light/svg.svg"
+        },
+        "dark_tf": {
+            "iconPath": "./icons/dark/tf.svg"
+        },
+        "light_tf": {
+            "iconPath": "./icons/light/tf.svg"
+        },
+        "dark_ts": {
+            "iconPath": "./icons/dark/ts.svg"
+        },
+        "light_ts": {
+            "iconPath": "./icons/light/ts.svg"
+        },
+        "dark_tsx": {
+            "iconPath": "./icons/dark/tsx.svg"
+        },
+        "light_tsx": {
+            "iconPath": "./icons/light/tsx.svg"
+        },
+        "dark_txt": {
+            "iconPath": "./icons/dark/txt.svg"
+        },
+        "light_txt": {
+            "iconPath": "./icons/light/txt.svg"
+        },
+        "dark_vue": {
+            "iconPath": "./icons/dark/vue.svg"
+        },
+        "light_vue": {
+            "iconPath": "./icons/light/vue.svg"
+        },
+    },
+    "file": "dark_file",
+    "folder": "dark_folder",
+    "folderExpanded": "dark_folder-expanded",
+    "rootFolder": "dark_root-folder",
+    "rootFolderExpanded": "dark_root-folder-expanded",
+    "folderNames": {
+        ".github": "dark_github-folder",
+        "node_modules": "dark_node-modules-folder",
+    },
+    "folderNamesExpanded": {
+        ".github": "dark_github-folder-expanded",
+        "node_modules": "dark_node-modules-folder-expanded",
+    },
+    "fileExtensions": {
+        "c": "dark_c",
+        "cpp": "dark_cpp",
+        "cs": "dark_cs",
+        "css": "dark_css",
+        "go": "dark_go",
+        "js": "dark_js",
+        "json": "dark_json",
+        "jsx": "dark_jsx",
+        "md": "dark_md",
+        "svg": "dark_svg",
+        "tf": "dark_tf",
+        "ts": "dark_ts",
+        "tsx": "dark_tsx",
+        "txt": "dark_txt",
+        "vue": "dark_vue",
+    },
+    "fileNames": {
+        "Dockerfile": "dark_docker",
+        ".env": "dark_dotenv",
+        ".editorconfig": "dark_editorconfig",
+    },
+    "light": {
+        "file": "light_file",
+        "folder": "light_folder",
+        "folderExpanded": "light_folder-expanded",
+        "rootFolder": "light_root-folder",
+        "rootFolderExpanded": "light_root-folder-expanded",
+        "fileExtensions": {
+            "md": "light_md",
+            "ts": "light_ts",
+            "tsx": "light_tsx",
+            "js": "light_js",
+            "jsx": "light_jsx",
+            "css": "light_css",
+            "json": "light_json",
+            "go": "light_go",
+            "txt": "light_txt",
+            "vue": "light_vue",
+            "svg": "light_svg",
+            "tf": "light_tf",
+        },
+        "fileNames": {
+            "Dockerfile": "light_docker",
+            ".editorconfig": "light_editorconfig",
+            ".env": "light_dotenv",
+        }
+    }
+}
