@@ -78,6 +78,12 @@
         "light_editorconfig": {
             "iconPath": "./icons/light/editorconfig.svg"
         },
+        "dark_extension": {
+            "iconPath": "./icons/dark/extension.svg"
+        },
+        "light_extension": {
+            "iconPath": "./icons/light/extension.svg"
+        },
         "dark_file": {
             "iconPath": "./icons/dark/file.svg"
         },
@@ -119,6 +125,12 @@
         },
         "light_go": {
             "iconPath": "./icons/light/go.svg"
+        },
+        "dark_ignore": {
+            "iconPath": "./icons/dark/ignore.svg"
+        },
+        "light_ignore": {
+            "iconPath": "./icons/light/ignore.svg"
         },
         "dark_image": {
             "iconPath": "./icons/dark/image.svg"
@@ -173,6 +185,12 @@
         },
         "light_less": {
             "iconPath": "./icons/light/less.svg"
+        },
+        "dark_license": {
+            "iconPath": "./icons/dark/license.svg"
+        },
+        "light_license": {
+            "iconPath": "./icons/light/license.svg"
         },
         "dark_log": {
             "iconPath": "./icons/dark/log.svg"
@@ -410,6 +428,7 @@
         "dll": "dark_dll",
         "doc": "dark_doc",
         "docx": "dark_docx",
+        "vsix": "dark_extension",
         "gif": "dark_gif",
         "go": "dark_go",
         "bmp": "dark_image",
@@ -494,6 +513,26 @@
         "Dockerfile": "dark_docker",
         ".env": "dark_dotenv",
         ".editorconfig": "dark_editorconfig",
+        "LICENSE": "dark_license",
+        "LICENSE.txt": "dark_license",
+        "LICENSE.md": "dark_license",
+        ".gitignore": "dark_ignore",
+        ".dockerignore": "dark_ignore",
+        ".npmignore": "dark_ignore",
+        ".eslintignore": "dark_ignore",
+        ".prettierignore": "dark_ignore",
+        ".cvsignore": "dark_ignore",
+        ".hgignore": "dark_ignore",
+        ".bazelignore": "dark_ignore",
+        ".p4ignore": "dark_ignore",
+        ".jshintignore": "dark_ignore",
+        ".stylelintignore": "dark_ignore",
+        ".gcloudignore": "dark_ignore",
+        ".terraformignore": "dark_ignore",
+        ".dcignore": "dark_ignore",
+        ".cfignore": "dark_ignore",
+        ".nxignore": "dark_ignore",
+        ".vscodeignore": "dark_ignore",
     },
     "light": {
         "file": "light_file",
@@ -545,6 +584,7 @@
             "dll": "light_dll",
             "doc": "light_doc",
             "docx": "light_docx",
+            "vsix": "light_extension",
             "gif": "light_gif",
             "go": "light_go",
             "bmp": "light_image",
@@ -629,6 +669,26 @@
             "Dockerfile": "light_docker",
             ".env": "light_dotenv",
             ".editorconfig": "light_editorconfig",
+            "LICENSE": "light_license",
+            "LICENSE.txt": "light_license",
+            "LICENSE.md": "light_license",
+            ".gitignore": "light_ignore",
+            ".dockerignore": "light_ignore",
+            ".npmignore": "light_ignore",
+            ".eslintignore": "light_ignore",
+            ".prettierignore": "light_ignore",
+            ".cvsignore": "light_ignore",
+            ".hgignore": "light_ignore",
+            ".bazelignore": "light_ignore",
+            ".p4ignore": "light_ignore",
+            ".jshintignore": "light_ignore",
+            ".stylelintignore": "light_ignore",
+            ".gcloudignore": "light_ignore",
+            ".terraformignore": "light_ignore",
+            ".dcignore": "light_ignore",
+            ".cfignore": "light_ignore",
+            ".nxignore": "light_ignore",
+            ".vscodeignore": "light_ignore",
         },
     }
 }
