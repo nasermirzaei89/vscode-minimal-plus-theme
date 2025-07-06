@@ -306,6 +306,12 @@
         "light_sh": {
             "iconPath": "./icons/light/sh.svg"
         },
+        "dark_sql": {
+            "iconPath": "./icons/dark/sql.svg"
+        },
+        "light_sql": {
+            "iconPath": "./icons/light/sql.svg"
+        },
         "dark_svg": {
             "iconPath": "./icons/dark/svg.svg"
         },
@@ -479,6 +485,7 @@
         "sass": "dark_sass",
         "scss": "dark_scss",
         "sh": "dark_sh",
+        "sql": "dark_sql",
         "svg": "dark_svg",
         "swift": "dark_swift",
         "tf": "dark_tf",
@@ -635,6 +642,7 @@
             "sass": "light_sass",
             "scss": "light_scss",
             "sh": "light_sh",
+            "sql": "light_sql",
             "svg": "light_svg",
             "swift": "light_swift",
             "tf": "light_tf",
