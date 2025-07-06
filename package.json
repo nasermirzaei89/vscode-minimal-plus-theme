@@ -15,6 +15,14 @@
         "Themes"
     ],
     "contributes": {
+        "themes": [
+            {
+                "id": "vscode-minimal-plus-theme-vs-dark",
+                "label": "Minimal+ Theme",
+                "uiTheme": "vs-dark",
+                "path": "./theme-vs-dark.json"
+            }
+        ],
         "iconThemes": [
             {
                 "id": "vscode-minimal-plus-icon-theme",

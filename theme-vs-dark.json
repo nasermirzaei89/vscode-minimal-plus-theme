@@ -1,0 +1,69 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "Minimal+ (Dark)",
+    "colors": {},
+    "tokenColors": [
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#fb7185"
+            }
+        },
+        {
+            "scope": "storage",
+            "settings": {
+                "foreground": "#818cf8"
+            }
+        },
+        {
+            "scope": "comment",
+            "settings": {
+                "foreground": "#6b7280"
+            }
+        },
+        {
+            "scope": "meta.type.annotation",
+            "settings": {
+                "foreground": "#4ade80"
+            }
+        },
+        {
+            "scope": "string",
+            "settings": {
+                "foreground": "#34d399"
+            }
+        },
+        {
+            "scope": "support.type.property-name.json",
+            "settings": {
+                "foreground": "#fb7185"
+            }
+        },
+        {
+            "scope": "constant.numeric.json",
+            "settings": {
+                "foreground": "#fb923c"
+            }
+        },
+        {
+            "scope": "variable",
+            "settings": {
+                "foreground": "#cbd5e1"
+            }
+        },
+        {
+            "scope": "entity.name.function",
+            "settings": {
+                "foreground": "#f59e0b"
+            }
+        },
+        {
+            "scope": "invalid",
+            "settings": {
+                "foreground": "#ef4444"
+            }
+        },
+    ],
+    "semanticHighlighting": true,
+    "semanticTokenColors": {}
+}
